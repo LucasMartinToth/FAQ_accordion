@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://lucasmartintoth.github.io/FAQ_accordion/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/faq-accordion-using-semantic-html-css-and-javascript-YCyO3kDzhd)
 - Live Site URL: [Click here](https://lucasmartintoth.github.io/FAQ_accordion/)
 
 ## My process
